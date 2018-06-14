@@ -1,0 +1,13 @@
+.header {
+  background-color: #000;
+  margin-top: 0;
+  height: 50px;
+  width: 100vw;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.header p {
+    font-size: 30px;
+}
